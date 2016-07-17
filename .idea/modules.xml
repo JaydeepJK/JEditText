@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JEditText/JEditText.iml" filepath="$PROJECT_DIR$/JEditText/JEditText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEditTextSample/JEditTextSample.iml" filepath="$PROJECT_DIR$/JEditTextSample/JEditTextSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEditText_2506.iml" filepath="$PROJECT_DIR$/JEditText_2506.iml" />
+    </modules>
+  </component>
+</project>
