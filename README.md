@@ -46,6 +46,7 @@ m_etLogin.setShakeAnimationEnabled(true);
 ```
 You can see the Jedittext example in a sample application in the video given here.
 
+[![JEdittext in a sample application](http://img.youtube.com/vi/c8J__kgTn4E/0.jpg)](http://www.youtube.com/watch?v=c8J__kgTn4E)
 
 Please let me know what extra capabilities you want to add for this control and I will add it.
 
